@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Hollingworth's defence of K. Charles the First's holy and divine book, called Eikon basilikē against the rude and undutiful assaults of the late Dr. Walker of Essex proving by living and unquestionable evidences, the aforesaid book to be that royal martyr's, and not Dr. Gauden's.</title>
+            <author>Hollingworth, Richard, 1639?-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44224</idno>
+            <idno type="STC">Wing H2503</idno>
+            <idno type="STC">ESTC R13677</idno>
+            <idno type="EEBO-CITATION">12539857</idno>
+            <idno type="OCLC">ocm 12539857</idno>
+            <idno type="VID">62944</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62944)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 670:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Hollingworth's defence of K. Charles the First's holy and divine book, called Eikon basilikē against the rude and undutiful assaults of the late Dr. Walker of Essex proving by living and unquestionable evidences, the aforesaid book to be that royal martyr's, and not Dr. Gauden's.</title>
+                  <author>Hollingworth, Richard, 1639?-1701.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Eddowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Walker, Anthony, d. 1692. --  True account of the author of a book entituled Eikon basilike.</term>
+               <term>Eikon basilike.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62944:1"/>
+            <pb facs="tcp:62944:1"/>
+            <p>Dr. HOLLINGWORTH'S DEFENCE OF K. CHARLES the Firſt's Holy and Divine Book, called ΕΙΚΩΝ ΒΑΣΙΛΙΚΗ Againſt the Rude and Undutiful Aſſaults of the late Dr. <hi>Walker,</hi> of <hi>Eſſex.</hi>
+            </p>
+            <p>PROVING By Living and Unqueſtionable Evidences, the aforeſaid Book to be that Royal Martyr's, and not Dr. <hi>Gauden</hi>'s.</p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur.</p>
+                        <closer>
+                           <date>
+                              <hi>Maii</hi> 2. 1692.</date>
+                           <signed>Carolus Alſton, R. P. D. Hen. Epiſc. Lond. à Sacris.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Samuel Eddowes,</hi> under the Piazza of the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1692.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:62944:2"/>
+            <pb facs="tcp:62944:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>IT is a thing of very ſad conſideration to all wiſe and good men in the Nation, to think, that at this time of the day, when we have a noble Prince brandiſhing his Sword abroad, and as noble a Princeſs indefatigably attending the publick Affairs at home, in order to preſerve the Religion and Laws of their Country; that there ſhould be a Generation of Men at the ſame time rendring them their Thanks for all Their Care and Pains, by villifying their Grandfather, and extolling every ſcurrilous Pamphlet that leſſens the deſerved Honour and Reputation of that great and good man. What this means, and what it is deſigned for, every man that hath but half an Eye in his Head may eaſily ſee: And tho' many of their pretences of Love and Duty to Their preſent Majeſties are very great, yet it is plain theſe Attempts upon the Name and Memory of K. <hi>Charles</hi> I. are in order to a Common-wealth, or elſe to bring the Monarchy to the Standard of <hi>Venice</hi> or <hi>Genoua,</hi> and therefore I think no man is to be blamed, at this time, for ſtanding up for the ancient Conſtitution of the Kingdom, and in order to it, for defending that Prince who (notwithſtanding all un<g ref="char:EOLhyphen"/>juſt Reflections) did grant as much, nay more, for preſerving it, than any King that had reigned before him; which he that reads over his Hiſtory impartially, muſt needs confeſs, or elſe I am ſure he muſt wilfully ſhut his Eyes againſt the cleareſt Light; for, I am certain there was nothing offered him, that could make the King<g ref="char:EOLhyphen"/>dom truly happy, but he was willing to hearken to it, and com<g ref="char:EOLhyphen"/>ply with it.</p>
+            <p>By what means all his Condeſcentions proved in vain, it is the eaſieſt thing to underſtand; a few proud and ambitious perſons had got the Power in their Hands, by their Intereſt in a corrupt and enthuſiaſtical Army, and rather than return to their old ſta<g ref="char:EOLhyphen"/>tions again, they choſe to break through all the Guards and Fences of Law, all the Oaths they had taken, and againſt the Sence, the Petitions, and earneſt Deſires of the Nation in general, to imbrew their Hands in their Prince's Blood, an action for which the Ho<g ref="char:EOLhyphen"/>nour of the Kingdom has been ſtained ever ſince.</p>
+            <pb facs="tcp:62944:3"/>
+            <p> But that after all this, and the Ruines that one Act has brought upon us, we of this Age ſhould be ſo mad and intoxicated, as to vindicate it, and appland every thing that juſtifies that horrid Murder, is a thing, I may ſay, without a parallel, and cauſes great thoughts of heart amongſt all diſereet and thinking men; and withal, that ſuch a Book as Dr. <hi>Walker</hi>'s late Book againſt King <hi>Charles</hi>'s incomparable Writings ſhould be ſo magnified and ap<g ref="char:EOLhyphen"/>planded, has to my own knowledge as much amazed as well as grieved a great part of the Subjects of this Kingdom; and there<g ref="char:EOLhyphen"/>fore I thought it neceſſary, for the caſing the minds of thoſe good men, to let the World ſee what a Forgery that Book of Dr. <hi>Wal<g ref="char:EOLhyphen"/>ker</hi>'s was; and if honeſt, plain, and living Teſtimonies will con<g ref="char:EOLhyphen"/>vince his Admirers, I am ſure I ſhall now do it.</p>
+            <p>I have omitted in this Anſwer many Inconſiſtencies in the Dr's Book, becauſe I was reſolved to dwell upon matter of Fact; and withal, I have forborn returning thoſe Scurrilities and Scorns he has loaded me withal, upon himſelf, for I conſider'd him as dead, and therefore have been as civil to him as the nature of my Un<g ref="char:EOLhyphen"/>dertaking would allow me; and I wiſh with all my Heart he had ſurvived the publiſhing his Book, that he might have had time to have repented of ſuch an unſeaſonable, falſe, and undutiful a Book as this of his is, whereby he has gratified none but the great Ene<g ref="char:EOLhyphen"/>mies of Monarchy and Epiſcopacy.</p>
+            <p>Reader, I have but one thing more to add, and that is, if any man queſtion the Truth of thoſe living Evidences I have quoted, if he pleaſes to come to me, I will wait upon him to them, and he ſhall have ſatisfaction from themſelves of the Truth of what I have writ.</p>
+            <p>The God of Heaven and Earth reſtore all the People of this Nation to ſound Minds, to impartial Conſiderations of Perſons and Things, eſpecially of the Perſon and Cauſe of King <hi>Charles</hi> the Firſt, that ſo we may not be diſappointed of our hopes and expecta<g ref="char:EOLhyphen"/>tions of Succeſs this Summer, by Sea and Land, by provoking God, by vindicating the barbarons dealings of a baſe Faction with him, for he that vindicates them repeats, and as far as he is able, commits them over again; which, I am ſure, is a great Sin, and without great Mercy, will have a ſuitable Puniſhment one time or other from Heaven.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:62944:3"/>
+            <head>King <hi>CHARLES</hi> the Firſt's ἘΙΚΩΝ ΒΑΣΙΛΙΚΗ: OR, THE Portraiture of his Sacred Majeſty in his Solitude and Sufferings, VINDICATED.</head>
+            <p>THERE is a Book lately publiſh'd, that hath made a great noiſe in the City and Country, and hath occaſion'd a great many falſe and ſpiteful Reflecti<g ref="char:EOLhyphen"/>ons upon my ſelf, which, I muſt tell the World, I am ſo far from being really burthen'd with the Thoughts of, that I look upon them as the greateſt Honour done to me, and to my Memory when I am dead and gone, conſidering it is for an honeſt and ſeaſonable Zeal for the Honour and Repu<g ref="char:EOLhyphen"/>tation of King <hi>Charles</hi> the Firſt, whoſe Name (not<g ref="char:EOLhyphen"/>withſtanding all villanous and deſigning Reflections) will ſmell ſweet to all Ages and Generations to come. How this Book hath been bought up, and carried up and down in Triumph, all men of any Obſervation know, and all good men are grieved at it: And now
+<pb n="2" facs="tcp:62944:4"/>the Point is gained, and that for which that Great King was ſo highly venerated, ſo deſervedly applau<g ref="char:EOLhyphen"/>ded, and indeed upon the ſcore of which the greateſt part of his Actions were vindicated, is now proved a Cheat, and a Forgery, and therefore he truly is guilty of what by the <hi>then</hi> Parliament was laid to his Charge, and made the reaſon of their War againſt him, and, at laſt, of the Murther of him. This is ſad News in deed, if it can be unqueſtionably made out, and thoſe many of us, that have defended the Intereſt and Inno<g ref="char:EOLhyphen"/>cence of this King, have great cauſe to lay our Hands upon our Breaſts, and ſay, What have we done?</p>
+            <p>But ſtay a little, bare Aſſertions and Accuſations were never yet amongſt Wiſe and Good Men admit<g ref="char:EOLhyphen"/>ted as ſatisfactory Proofs; and therefore this Book muſt be conſider'd, and examined, and weighed in a juſt and proper Ballance, before we down upon our Knees, and acknowledge our Faults, for defending and ſtanding up for this good and admirable Perſon.</p>
+            <p>And therefore I, ſo far as I am concerned, muſt beg Leave to tell the World what I have to ſay for my ſelf, and what I have to ſay in Bar, to the Truth and Credit of this Book, ſo much admired by a Party of men, who will cry up any thing that ſerves their Luſts againſt Monarchy and Epiſcopacy, for that is, in ſhort, the ſum total of the thing; and was there no Hopes of overturning the Government once again, and engroſſing the whole Power of the Nation into their hands, King <hi>Charles</hi>'s Aſhes might lye ſtill in the Grave, without any diſturbance or moleſtation.</p>
+            <pb n="3" facs="tcp:62944:4"/>
+            <p> The Title Page of the Book is, <hi>A True Account of the Author of a Book entituled,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>or, the Portraiture of his Sacred Majeſty, in his Solitude and Sufferings: With an Anſwer to all Objections made by Dr.</hi> Hollingworth, <hi>and others, in defence of the ſaid Book.</hi>
+            </p>
+            <p>The Author is Dr. <hi>Walker</hi> of <hi>Eſſex,</hi> who, if God, the Avenger of the Injured and Oppreſſed, had not called him to an account, before his Book was pub<g ref="char:EOLhyphen"/>liſhed, I ſhould have been ſo bold as to have given, and that by undeniable Proofs, ſuch Inſtances of the man, as would have invalidated his whole Teſtimo<g ref="char:EOLhyphen"/>ny, and made him and his Book too a Scorn to the World; but he is dead, and therefore I will, as much as I ought in this Caſe, forbear him, and let his Aſhes lye eaſier in the Grave, than he has the Aſhes of King <hi>Charles</hi> the Firſt.</p>
+            <p>The deſign of the Book is to tell the World, that that Book, that hath for 43 years together gone un<g ref="char:EOLhyphen"/>der the Name of King <hi>Charles,</hi> was none of his, but drawn up by Dr. <hi>Gauden.</hi>
+            </p>
+            <p>Well, But how muſt we be ſatisfied in this? For, truly there ought to be mighty clear and home Proofs, that a Book writ in ſo lofty, noble, and ſo agreeable a Stile to all the other acknowledged Wri<g ref="char:EOLhyphen"/>tings of this great King; a Book ſo full of Accounts of Political and State-Affairs, that no man hardly could be acquainted withal but himſelf; a Book ſo full of Divine Thoughts and Meditations, ſo ſuited to the various Conditions and Afflictions he was in, and indeed a Book, as the preſent Biſhop of <hi>Rochester</hi>
+               <pb n="4" facs="tcp:62944:5"/>ſaid in a Sermon, muſt needs be his, becauſe it was impoſſible any one ſhould write it but himſelf.</p>
+            <p>I ſay, there ought to be mighty clear Proofs ſuch a Book was none of his; Witneſſes upon Witneſſes, and thoſe very honeſt, and known upright men, who make Conſcience of the Appearance of Evil, ought to be brought into Court to make this good, to con<g ref="char:EOLhyphen"/>vince the World this ſo celebrated a Book was none of his. I, but here is no ſuch thing, Dr. <hi>Gauden</hi> made the Book, and told Dr. <hi>Walker</hi> ſo, and therefore 'tis true, and who ought to doubt it? And this moſt of the Diſſenters about Town ſay too. Why truly, with the Worlds good Leave, I am one that doubts it, nay, that ſcorns to believe it, and the more, becauſe Dr. <hi>Walker</hi> aſſerts it, who was he not dead (which upon this account and no other I am truly ſorry for) as I ſaid before, I would give Rea<g ref="char:EOLhyphen"/>ſons ſufficient to ſatisfie any man why I do not believe it upon his Authority.</p>
+            <p>Well, further Dr. <hi>Gauden</hi> ſhew'd him ſome of the Heads of Chapters, and afterwards told him, that he had made Biſhop <hi>Duppa</hi> acquainted with it, and ſent it by the Hands of my Lord Marqueſs of <hi>Hartford,</hi> to the King. This is all fine indeed, and yet, not<g ref="char:EOLhyphen"/>withſtanding both the Marqueſs and Biſhop <hi>Duppa</hi> ſurvived the Calamities of the War, and ſaw King <hi>Charles</hi> the Second's Reſtauration, and felt the good Effects of it, the one by being made Duke of <hi>Somer<g ref="char:EOLhyphen"/>ſet,</hi> and the other Biſhop of <hi>Wincheſter;</hi> yet poor (and yet ſo highly deſerving) Dr. <hi>Gauden</hi> was fain to ſit down contented with the ſmall Biſhoprick of <hi>Exeter,</hi> though over-and-above he had wrote againſt the very Covenant, he, as Dr. <hi>Walker</hi> ſaid, had taken,
+<pb n="5" facs="tcp:62944:5"/>and never durſt deſire, as by the Sequel appears, ei<g ref="char:EOLhyphen"/>ther Marqueſs or the Biſhop to recommend him to the particular and great Opinion of King <hi>Charles</hi> the Second; for, the Dr. tells us, <hi>pag.</hi> 5, that Dr. <hi>Gau<g ref="char:EOLhyphen"/>den</hi> did not know whether the King knew it, yea or no; nor yet did he ever (as by Dr. <hi>Walker</hi>'s further Account appears) give himſelf the Pleaſure and Satis<g ref="char:EOLhyphen"/>faction, to underſtand from the Marqueſs, whether King <hi>Charles</hi> the Firſt received it, approved it, and made uſe of it in his Retirements, as he pretended to deſign it, which certainly he might have done by a word ſpeaking to the Marqueſs, after the Reſtau<g ref="char:EOLhyphen"/>ration, for he lived till <hi>October</hi> following.</p>
+            <p>And this to me makes it a plain Caſe, that it is all Sham, and that if Dr. <hi>Gauden</hi> had dared at that time to have told ſuch a Falſhood, he muſt have ſate down contented with his Living at <hi>Barking,</hi> without any Expectations from the Court, without either being Biſhop of <hi>Exeter,</hi> or living in hopes of the Biſhoprick of <hi>Wincheſter.</hi>
+            </p>
+            <p>And Sir <hi>Dennis Gauden</hi> might have ſpared the Coſt and Charges of building an Houſe upon <hi>Clapham</hi> Common, for his Brother the next Biſhop of <hi>Win<g ref="char:EOLhyphen"/>cheſter</hi> that was to be. A Story, all things conſide<g ref="char:EOLhyphen"/>red, enough to make a very melancholy man to ſmile, but 'tis ſuch a one as Dr. <hi>Walker</hi> was accu<g ref="char:EOLhyphen"/>ſtomed to; That Sir <hi>Dennis Gauden</hi> ſhould lay out five or ſix thouſand pounds upon an Houſe for his Brother, when Biſhop of <hi>Wincheſter,</hi> which he was to have for writing a Book, and yet neither he nor his Brother knew, neither King <hi>Charles</hi> the
+<pb n="6" facs="tcp:62944:6"/>Second had nay knowledge of his writing the Book at all.</p>
+            <p>So that, in ſhort, the whole thing lies within this compaſs; Dr. <hi>Gauden</hi> made the Book, and told Dr. <hi>Walker</hi> ſo. I ſay on the other ſide, if Dr. <hi>Gau<g ref="char:EOLhyphen"/>den</hi> ſaid it, he did but jeſt with him, or elſe did ſomething worſe, which I will not name; for, I will prove by and by, under the hand of a more creditable man than ever Dr. <hi>Walker</hi> was, without any Diſparagement to his Memory, that Dr. <hi>Gau<g ref="char:EOLhyphen"/>den</hi> had another opinion of the Author of that Book, and did ſo declare it.</p>
+            <p>Well, he ſays, he believes upon this Say-ſo of Dr. <hi>Gauden,</hi> that it was his Book, and would have others upon his bare credit believe the ſame; and there are Thouſands of Deſigning men have, upon this man's Aſſertion, greedily ſwallowed it down, though I hope either to ſhame or ſilence them before I have done: And therefore on the other hand I ſay, I have better and greater Teſtimonies to the contrary, which I now come to offer to the World, which when I have done, I will leave my ſelf in the hands of all unprejudiced, diſpaſſionate, and unintereſted men, to judge which of us, upon true Evidence and Proof, ought to be believed. And thus I begin.</p>
+            <p>I tell the World in my Poſtſcrip to the <hi>Defence of King</hi> Charles <hi>the Firſt,</hi> that being in Conver<g ref="char:EOLhyphen"/>ſation with Sir <hi>John Brattle,</hi> a worthy perſon, and who hath long enjoy'd a conſiderable Office in
+<pb n="7" facs="tcp:62944:6"/>the Royal Mint, and diſcourſing with him about King <hi>Charles</hi> the Firſt, and particularly of the Su<g ref="char:EOLhyphen"/>ſpicions of the Truth of his Book, he frankly told me, and aſſured me the Truth of this Story.</p>
+            <p>
+               <q>That in the year 47, the King having drawn up the moſt conſiderable part of this Book, and having writ in ſome looſe Papers, at different times, deſired Biſhop <hi>Juxon</hi> to get ſome Friend of his, whom he could commend to him as a truſty perſon, to look it over, and put it into an exact method: The Biſhop pitched upon Sir <hi>John</hi>'s Fa<g ref="char:EOLhyphen"/>ther, whom he had been acquainted withal for many years, who undertaking the Task, was aſſiſted by this his Son, who declared he ſate up ſome Nights with his Father to aſſiſt him in me<g ref="char:EOLhyphen"/>thodizing theſe Papers, all writ with the King's own Hand.</q>
+            </p>
+            <p>Which Story, upon the coming out of my Book, did ſo nettle the Enemies of King <hi>Charles,</hi> that Sir <hi>John</hi> was preſently peſtered with Penny-Poſt Letters, (the uſual way of that Party, when any thing croſſes their Deſigns) and gave him ſuch a diſturbance, that preſently they raiſed a Story about Town, that Sir <hi>John</hi> had denied the thing, and conſequently I had abuſed the World with a Tale of my own inventing; upon hearing of which, I went the next morning to Sir <hi>John</hi>'s Houſe, in the <hi>Tower,</hi> and not finding him at home, by good Providence, in my return, met him under <hi>Aldgate,</hi> and walking with him down towards <hi>Crouched Fryers,</hi> I told him what I had heard, and deſired to know whether he had ſaid any ſuch thing, Sir
+<pb n="8" facs="tcp:62944:7"/>
+               <hi>John</hi> preſently, without haeſitation, told me, that all I had printed was true, but was troubled at my printing of it, becauſe of the Trouble he had with theſe Penny-Poſt Letters, at which I was not ſo much concerned, becauſe I thought it an Honour to Sir <hi>John,</hi> to have any hand in vindicating his old Maſter, and did think the Cauſe I was engaged in would defend me from any Imputation of Un<g ref="char:EOLhyphen"/>decency, in not asking his Leave to print a Story which he told without any Obligation to ſilence, and in company of another perſon, a worthy Ci<g ref="char:EOLhyphen"/>tizen, as well as my ſelf; but to do Sir <hi>John</hi> Ju<g ref="char:EOLhyphen"/>ſtice, I muſt acknowledge, that what he ſaid to me, as to the truth of what I writ in his Name, he hath ſaid to all my Friends ever ſince, that have had the opportunity of converſing with him, and talking about this Affair.</p>
+            <p>And now let us ſee what Dr. <hi>Walker</hi> ſays to this; why truly he does as good as tell me, that I have contradicted my ſelf, when I aſſert, the Book was delivered by the King to Biſhop <hi>Juxon,</hi> and the ſame Book ſent by the King to Mr. <hi>Simmons:</hi> He ſays, They cannot both be true; if that, not this; if this, not that; they are ſo contrary, <hi>pag.</hi> 2. Good God! how faſt will ſome men ſhut their Eyes, when ſeeing the Light would make them write and ſpeak Truth! A man of very ordinary Parts, and of an honeſt Mind, might at firſt ſight fee no manner of inconſiſtency in theſe two Stories; for, in plain terms I tell you, Biſhop <hi>Juxon</hi> received the moſt conſiderable part of the Book to methodize, by his Friend <hi>Dab,</hi> as he in familiarity called Sir <hi>John</hi>'s Father in 47, and the King ſent it to Mr. <hi>Sim<g ref="char:EOLhyphen"/>monds</hi>
+               <pb n="9" facs="tcp:62944:7"/>in 48, ſo that here is a full Years difference betwixt the one and the other. But poor Dr. <hi>Walker</hi> knew very well what ſort of mens Cauſe he was carrying on, and that a bare telling of them I had contradicted my ſelf, would be enough, for they preſently run away with a Scandal, though never ſo groſs and groundleſs, without any further exami<g ref="char:EOLhyphen"/>nation. Further, he queſtions Sir <hi>John</hi>'s Memory, and talks of his Youth to invalidate the Story, but that is ſo great an Affront to all the young Gentle<g ref="char:EOLhyphen"/>men and Apprentices in <hi>London,</hi> who at the age of Nineteen are ſo very much employed and truſted in their Maſters Books and Accounts, that I leave them to vindicate Sir <hi>John</hi> upon the ſcore of help<g ref="char:EOLhyphen"/>ing his Father in a thing of ſuch a Nature as this was, at ſuch an Age. And as for his doubting whether Biſhop <hi>Juxon</hi> ever ſaw the King, from the beginning of the War till his Murther, pray who can believe that a perſon who had been ſo obliged by his Maſter, as Biſhop <hi>Juxon</hi> was, would not take a days Journey to viſit his Royal Maſter at <hi>Ham<g ref="char:EOLhyphen"/>pton-Court,</hi> when the Army careſſed him at that great rate, and ſuffered acceſs to him by all forts of Perſons, even the Marqueſs of <hi>Ormond</hi> himſelf, who had ſo ſtoutly appear'd againſt them.</p>
+            <p>And this is all I have to ſay as to Sir <hi>John Brat<g ref="char:EOLhyphen"/>tle;</hi> and that he told me this, I will depoſe upon Oath, whenever I am lawfully recalled.</p>
+            <p>The next thing I ſhall diſcourſe upon, is the Sto<g ref="char:EOLhyphen"/>ry of Mr. <hi>Simmonds.</hi> I ſay in my Poſtſcript, That King <hi>Charles</hi> ſent his Book to Mr. <hi>Simmonds,</hi> to pe<g ref="char:EOLhyphen"/>ruſe and correct, he having writ ſo excellent a
+<pb n="10" facs="tcp:62944:8"/>Vindication of him, as indeed it is the beſt I ever ſaw, and which I wiſh were reprinted, and that Mr. <hi>Simmonds,</hi> upon the reading of it, ſent for Dr. <hi>Gauden,</hi> ſhewed it him, and who was ſo taken with it, that he borrowed it, tranſcribed it, and ſo returned it back to his loving Neighbour again, which Story I had from the Reverend, and my Worthy Friend, Dr. <hi>Meriton,</hi> who does not uſe to tell Stories of this high nature, without very good Grounds; but that which confirmed me in the belief of this Account, was this, namely, That Dr. <hi>Meriton</hi> dining the lat<g ref="char:EOLhyphen"/>ter end of the laſt year with the late Lord Mayor Sir <hi>Thomas Pilkington,</hi> happened to meet with Dr. <hi>Walker,</hi> at the ſame Table, where Dr. <hi>Walker</hi> was pleaſed, with his uſual Confidence, to aſſert Dr. <hi>Gauden</hi> the Author of the King's Book, upon which Dr. <hi>Meriton</hi> turned upon him with this Story of Mr. <hi>Simmonds,</hi> communicating the whole thing to Dr. <hi>Gauden,</hi> upon which he was ſo confounded, that he had nothing to ſay for himſelf; and though if none but Dr. <hi>Meriton</hi> himſelf had declared to me the iſſue of their Debate, it would have ſatisfied me: Yet the further ſatisfaction I had from my Worthy Friend Mr. <hi>Marriot,</hi> then Chaplain to the Lord Mayor, and Miniſter of the Pariſh Church in <hi>Rood Lane,</hi> who ſtood by, and heard the whole Diſ<g ref="char:EOLhyphen"/>courſe, and withal the Silence he put Dr. <hi>Walker</hi> to; which he profeſſed to my ſelf, gave me ſo full a ſatisfaction, that upon that account I ventured to give the World an account of it in Print. After this, in <hi>January</hi> laſt, a Reverend Friend Mr. <hi>Jonas Warley,</hi> Vicar of <hi>Witham</hi> in <hi>Eſſex,</hi> coming to Town, was pleaſed to let me know by a Paper of Directi<g ref="char:EOLhyphen"/>ons, where Mrs. <hi>Simmonds,</hi> the Widow of the afore<g ref="char:EOLhyphen"/>ſaid
+<pb n="11" facs="tcp:62944:8"/>Loyal Sufferer lived, whom according to the Directions I found at the ſame place, where after telling her, that I heard ſhe was ſuch a man's Wi<g ref="char:EOLhyphen"/>dow once, and ſhe acknowledging it, I asked her, whether ſhe knew any thing of the King's Book, and how far her Husband was concerned in it; ſhe preſently anſwer'd me, that going into her Husband's Study, ſhe ſaw upon the Table a Book in writing, which ſhe knew was not her Husband's Hand, and therefore asked him whoſe it was, which he turning her off with bidding her mind her own Buſineſs, ſhe deſiſted from any further Enquiry; after which he ſending, or elſe giving it with his own hands to Mr. <hi>Royſton</hi> to print. The ſaid Book was printed, as I ſhall ſhew by and by, and the Proofs corrected by himſelf; but the thing getting ſome Air, the Souldiers came, and ſeized upon a great part of the Impreſſion, ſo that what were left of that Impreſſi<g ref="char:EOLhyphen"/>on, were ſold for Twenty Shillings a piece. The King's Murther quickly after following, ſhe told me, her Husband never joyed himſelf, (thoſe were her very words) but fell ſick, and died the 29th of <hi>March</hi> following, and throughout his whole Sick<g ref="char:EOLhyphen"/>neſs declared the Book was the King's Book, which upon reading, the Spirit and Temper, the Religion and Piety, the holy Courage and undaunted Zeal, the Simplicity and Sincerity of the man through<g ref="char:EOLhyphen"/>out all his Writings for King <hi>Charles,</hi> I am confi<g ref="char:EOLhyphen"/>dent he would never have atteſted upon his Death<g ref="char:EOLhyphen"/>bed, if the Book had been compoſed by any but King <hi>Charles</hi> himſelf, and which upon the Characters I have read of the Lord Marqueſs of <hi>Hartford</hi> and Biſhop <hi>Duppa,</hi> I alſo firmly believe of them, both of
+<pb n="12" facs="tcp:62944:9"/>them, no doubt, ſcorning to aſſiſt their Royal Ma<g ref="char:EOLhyphen"/>ſter's Righteous Cauſe by ſuch a Cheat as a Book writ in his Name by Dr. <hi>Gauden;</hi> for true Church-of-<hi>England</hi>-men, governed by conſcientious Principles, ſcorn to carry on their Deſigns by Lyes and Forge<g ref="char:EOLhyphen"/>ries, by Tricks and Devices, that are only fit to ſerve a bad and wicked Cauſe; the King himſelf was a man of too great Wiſdom and Piety, of Under<g ref="char:EOLhyphen"/>ſtanding and Learning, to want the help of ſuch a man as Dr. <hi>Gauden;</hi> and I dare ſay, the two aforeſaid Lords ſcorned to propoſe ſuch a thing to him; or if they had, he would with all worthy Diſdain have re<g ref="char:EOLhyphen"/>jected it.</p>
+            <p>But to put this thing further out of doubt, under<g ref="char:EOLhyphen"/>ſtanding who compos'd and printed this Book, and they both being now alive, I went to the one, and ſent to the other; he I went to, was Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Milbourn</hi> Printer, juſt by <hi>Jewen-ſtreet,</hi> and en<g ref="char:EOLhyphen"/>quiring of him what he knew of King <hi>Charles</hi>'s Book, he told me, before a ſufficient Witneſs, That in the year 48 he was Apprentice to Mr. <hi>John Griſman,</hi> a Printer, at which time Mr. <hi>Simmonds,</hi> by Mr. <hi>Royſton,</hi> ſent the King's Book to be printed, and that his Maſter did print it; and that Mr. <hi>Simmonds</hi> alwaies had the name of ſending it to the Preſs; and that it came to them as from the King, and they underſtood it no otherways; and that they had printed ſeveral other things with <hi>C. R.</hi> to them, and that it looked to them like the ſame Hand, and the ſame ſort of Paper with others that were ſo mar<g ref="char:EOLhyphen"/>ked, and looked upon as the King's Papers, for the King (as all Kings no doubt do) kept the Original
+<pb n="13" facs="tcp:62944:9"/>by him, and Mr. <hi>Odert</hi> the Secretary tranſcribed them.</p>
+            <p>Which after I writ down, I read to him, and he before witneſs declared to be true; but withal, he informed me, that there was one Mr. <hi>Clifford</hi> be<g ref="char:EOLhyphen"/>longing to the Church of St. <hi>Paul</hi>'s, and Reader of Prayers at <hi>Serjeants-Inne</hi> in <hi>Fleetſtreet,</hi> that aſſiſted him in compoſing and correcting the aforeſaid Book, who could give me a further account of the thing; upon which the ſame day <hi>April</hi> the 28th, in the Afternoon, I ſent a Letter to Mr. <hi>Clifford,</hi> deſiring him to give me the favour of his company that Afternoon, or to come to me the day following; who ſent me an Anſwer, That his Buſineſs was ſo, that he could not come that Evening, but he would come to me the next day; which accordingly he did, and after Dinner, before Witneſſes, I writ down what he ſaid to me upon Knowledge of the King's Book, which I after read to him, and he ſet his Hand to: The words were theſe.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <p>
+                           <hi>I James Clifford</hi> do, upon my Knowledge, declare to Dr. <hi>Hollingworth,</hi> that I was an Actuary in ſeveral things publiſhed by King <hi>Charles,</hi> particularly the Letters between him and Mr. <hi>Alexander Henderſon,</hi> who en<g ref="char:EOLhyphen"/>deavoured to ſeduce the King to favour the Presbyterian Government, and that there was
+<pb n="14" facs="tcp:62944:10"/>a man of known Fidelity, Mr. <hi>Simmonds</hi> by Name, Chaplain to the then Prince of <hi>Wales,</hi> who was employed by the King to take care of his Book, becauſe he had writ the Vindicati<g ref="char:EOLhyphen"/>on of the King ſo well; and that the King entituled his Book <hi>The Royal Plea;</hi> but Dr. <hi>Jeremiah Taylor</hi> coming accidentally to Mr. <hi>Royſton</hi>'s Shop, he having a great and aſſured Cofidence in him, ſhewed him the firſt Proof from the Preſs, which when the Dr. viewed under that Title, he told him that the Title would betray the Book; whereupon Dr. <hi>Tayler</hi> did undertake to write a Letter to his Majeſty, to let him know it would be in danger of being ſuppreſſed for the Titles ſake, there being, as he underſtood, two crafty Infor<g ref="char:EOLhyphen"/>mers, by name <hi>Cheltenham</hi> and <hi>Jones,</hi> who would underſtand the Book by the Title, and therefore he thought <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> would be a better Title, and the leſs taken notice of by the Informers, being Greek, and withal, it agreeing with the Title of his Father's Book, called <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>; upon which Letter the King immediately conſented to the alteration of the Title as Dr. <hi>Tayler</hi> propoſed. And withal, I do declare, that the King, for fear the Origi<g ref="char:EOLhyphen"/>nal
+<pb n="15" facs="tcp:62944:10"/>ſhould miſcarry, ordered Mr. <hi>Odert,</hi> Se<g ref="char:EOLhyphen"/>cretary to Sir <hi>Edw. Nicholas</hi> Principal Secre<g ref="char:EOLhyphen"/>tary of State, to tranſcribe it, and lodged the Original in the Lord Marqueſs of <hi>Hartford</hi>'s own Hands, and by the Copy of Mr. <hi>Odert</hi>'s, Mr. <hi>Milbourn</hi> and my ſelf, (it being the way of Livelihood I took to, being turned out of <hi>Magdalen College</hi> in <hi>Oxford</hi> for my Loyalty) did print the ſaid Book, after the printing of which a great part was ſeized in Mr. <hi>Sim<g ref="char:EOLhyphen"/>monds</hi>'s Lodgings, and he, though in a Shep<g ref="char:EOLhyphen"/>herd's Habit, was ſo far diſcovered, as that he was purſued into <hi>Great Carter-lane,</hi> by the Rebels, where he took Refuge, and the bloody Villains fired two Piſtols at him, which frigh<g ref="char:EOLhyphen"/>ted him up Stairs, and out of the Garret Win<g ref="char:EOLhyphen"/>dow he made his eſcape over the Houſes. And I do further ſay, that I never heard, nay, that I am ſure, that Dr. <hi>Gauden</hi> never was concerned in that Book, by which Mr. <hi>Mil<g ref="char:EOLhyphen"/>bourn</hi> and my ſelf printed it, and that we had no part of the Copy from Dr. <hi>Walker,</hi> for it was that tranſcribed by the aforeſaid Mr. <hi>Odert</hi> we printed it by.</p>
+                        <closer>
+                           <signed>Teſte <hi>Jac. Clifford,</hi>
+                           </signed>
+                           <signed>In the Preſence of <hi>Luke Milbourn,</hi> Clerk,<lb/> and <hi>Margaret Hollingworth.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="16" facs="tcp:62944:11"/>
+            <p> And now I think this is enough as to Mr. <hi>Sim<g ref="char:EOLhyphen"/>monds;</hi> there is but one thing worthy of Remark, (for the other about Colonel <hi>Rich</hi> is trifling) and that is, That Mr. <hi>Simmonds</hi> was gone from <hi>Raine</hi> ſome years before 48, and therefore could not ſend for Dr. <hi>Gauden</hi> as a Neighbour, to communicate the King's Book to him.</p>
+            <p>This Story, though true in the main, was not ſo punctually delivered as it ought to have been, and I quickly ſaw my Error, after the Book was out, though I did not ſay that Mr. <hi>Simmonds</hi> ſent for the Dr. to <hi>Raine,</hi> the Living out of which he was ſe<g ref="char:EOLhyphen"/>queſtred for his Loyalty in 43.</p>
+            <p>Now, you muſt underſtand, that Dr. <hi>Gauden</hi> was preſented to the Living of <hi>Bocking</hi> in 41, and as I am well informed, he had his firſt preſentation from the Parliament, but not looking upon it as a ſafe Hold for ſo great and reputable a Benefice, which is called a <hi>Deanery,</hi> he, by the Interceſſion of Friends, at laſt, procured a Preſentation from Archbiſhop <hi>Laud,</hi> the rightful Patron to it, then in the <hi>Tower,</hi> at which place he contracted a Friendſhip with, as well as became a Neighbour to Mr. <hi>Simmonds</hi> at <hi>Raine,</hi> which I am told is not Two Miles from <hi>Bocking,</hi> and it was in <hi>London,</hi> after he had received the King's Book, that he ſent for his former Neigh<g ref="char:EOLhyphen"/>bour <hi>Gauden,</hi> and communicated, and lent him for ſome days that Book: And, pray what mighty Er<g ref="char:EOLhyphen"/>ror is there in this, for Dr. <hi>Walker</hi> to take ſuch an Advantage from? I wiſh he had committed no grea<g ref="char:EOLhyphen"/>ter
+<pb n="17" facs="tcp:62944:11"/>throughout his whole Book, and then I am ſure it would have not ſwelled to 37 Pages; for, if he had writ nothing but Truth, a Nut-ſhell would have held it all.</p>
+            <p>And thus much for Mr. <hi>Simmonds</hi>'s Story, in which, I hope, by Living Teſtimonies, I have made good what I aſſerted, and proved Dr. <hi>Walker</hi>'s Say-ſoes but meer Fictions of his own.</p>
+            <p>I, but ſtill Dr. <hi>Gauden</hi> ſaid he compoſed and fra<g ref="char:EOLhyphen"/>med the whole Book to ſerve the King, and that Good, that Pious man Dr. <hi>Walker</hi> does aſſert it, and his words weigh more with us, ſay the Com<g ref="char:EOLhyphen"/>mon-wealths-men, than a Thouſand (though living) Teſtimonies to the contrary. I, but ſoft and fair Gentlemen, I ſay and will prove it by a better Evi<g ref="char:EOLhyphen"/>dence than Dr. <hi>Walker</hi>'s can be ſuppoſed to be, that Dr. <hi>Gauden,</hi> after he was Biſhop of <hi>Exeter,</hi> did ſay the quite contrary, and did juſtifie it to be the King's Book; and that if ever he told Dr. <hi>Wal<g ref="char:EOLhyphen"/>ker</hi> he made it, he ſpoke that which is falſe to one or the other, and therefore his Credit ought not to be rely'd on at all.</p>
+            <p>Dr. <hi>Walker</hi> hath forced me to this, or elſe Bi<g ref="char:EOLhyphen"/>ſhop <hi>Gauden</hi>'s Aſhes ſhould for me have lain peaceably and honourably in the Grave; but Dr. <hi>Gauden</hi>'s Reputation is a meer Trifle when put in the Scales with the Honour of King <hi>Charles</hi> the Firſt.</p>
+            <pb n="18" facs="tcp:62944:12"/>
+            <p> Know therefore, Reader, that underſtanding the Reverend Mr. <hi>Long,</hi> Prebendary, as I take it, of <hi>Exeter,</hi> was well acquainted with Dr. <hi>Gauden,</hi> when Biſhop of <hi>Exeter,</hi> and had many free Diſcourſes and Communications with him, and ſometimes about King <hi>Charles</hi> the Firſt, and more particular<g ref="char:EOLhyphen"/>ly about his Book, to whom Biſhop <hi>Gauden</hi> decla<g ref="char:EOLhyphen"/>red, it could be the Book of none but the King himſelf; hearing of which before I ever thought of ſo bold a Man and audacious a Slanderer as the <hi>Eſſex</hi> Dr. proved afterwards by his Book to be, I made bold the 21ſt of <hi>April,</hi> the very day after the publiſhing of <hi>Walker</hi>'s Book, to write to Mr. <hi>Long,</hi> deſiring him to let me know whether Dr. <hi>Gauden</hi> had ever declared and aſſerted any ſuch thing in Converſation with him? who was pleaſed to anſwer mine by the next Poſt, and to referr me to his Letters he had ſent to Dr. <hi>Good all,</hi> the Phy<g ref="char:EOLhyphen"/>ſician in <hi>Charterhouſe-yard,</hi> upon whom I waited, and who was pleaſed, upon my deſire, to give me out of Mr. <hi>Long</hi>'s two Letters theſe two Tran<g ref="char:EOLhyphen"/>ſcripts.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="19" facs="tcp:62944:12"/>
+                  <p>
+                     <hi>I</hi> Had the Hap to be acquainted with Bi<g ref="char:EOLhyphen"/>ſhop <hi>Gauden,</hi> as long as he was our Dioceſan, and I have heard him often affirm, that he was fully convine'd, that the <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> was entirely that King's Work.</p>
+                  <closer>
+                     <dateline>Exon, <date>
+                           <hi>March 23. 1691/2</hi>
+                        </date>
+                     </dateline>
+                     <signed>Tho. Long.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And in another Letter thus:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>I</hi> Can affirm on my own Knowledge, that Biſhop <hi>Gauden</hi> did affirm it to be his full Belief, that the <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> was the King's own Work.</p>
+                  <closer>
+                     <dateline>Exon, <date>
+                           <hi>April 15. 1692</hi>
+                        </date>
+                     </dateline>
+                     <signed>Tho. Long.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="20" facs="tcp:62944:13"/>
+            <p> And if the Reader of theſe two Accounts be de<g ref="char:EOLhyphen"/>ſirous to know who Mr. <hi>Long</hi> is, I muſt tell him, that he is an Ancient, Grave, Reverend Divine, well known for his Truth and Honeſty; one who, as he is a profeſſed Member of the Church of <hi>England,</hi> ſo he hath alwaies been true to the Doctrin and Diſcipline of it in his Preaching and Practice, and not like my Adverſary, who I know (for I was perſonally acquainted with him) was an Encourager of, and a Comrade principally with thoſe who had no kindneſs for the Church at all.</p>
+            <p>I have but one thing more which is matter of Fact to anſwer, and that is his Story about Major <hi>Huntington:</hi> He tells you how he met him at <hi>Tun<g ref="char:EOLhyphen"/>bridge,</hi> upon what account he viſited him, and what paſſed betwixt the Major and himſelf, when the reſt of the Company were engaged in their Divertiſe<g ref="char:EOLhyphen"/>ments; in which he takes great care of not being contradicted by any Stander by, for ſtill his bare Word and Credit are the only things to be relyed upon, ſo vain a thing is Man.</p>
+            <p>Well, the purport of the Diſcourſe is, That the Major denies all that was ſaid of him by Sir <hi>William Dugdale,</hi> or any others, as to the Papers relating to the King's Book. Well done Dr. <hi>Walker;</hi> if thou ever hadſt a man alone with thee, undoubtedly he was alwaies on thy ſide, and thou wert alwaies in the right, and when the man was dead, wouldſt aſ<g ref="char:EOLhyphen"/>ſume the confidence to print it.</p>
+            <pb n="21" facs="tcp:62944:13"/>
+            <p> Now, What muſt a man ſay in this caſe? Muſt he give the famous Dr. <hi>Walker</hi> the Lye, and ſay, the Major never ſaid theſe words; and that becauſe he ſaid the contrary to others, who have atteſted it in the moſt ſolemn and ſerious manner? Truly this looks very hard upon the Memory of ſuch a man, ſay the Common-wealths-men, as Dr. <hi>Walker.</hi>
+            </p>
+            <p>Well, but by the good Leave of all Dr. <hi>Walker</hi>'s Believers and Admirers, I will here, in the Fear and Preſence of God, tell this Story:</p>
+            <p>That the laſt year, when Dr. <hi>Walker,</hi> by living in <hi>London</hi> at <hi>Alderman bury,</hi> had been by his vain and raſh, his falſe and undutiful Talking, an occaſion of the Clergy-mens and others Defence of the King's Book, amongſt other Confirmations of the Truth of the Book, this Story was told me by a certain Nonconformiſt Miniſter, to wit, what Major <hi>Hunting<g ref="char:EOLhyphen"/>ton</hi> told him with his own Mouth, that he procu<g ref="char:EOLhyphen"/>red ſome Papers that made up part of his Royal Book afterwards, from the Hands of my Lord <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> the Parliaments General, which were taken after <hi>Nazeby</hi> Fight, and kept by my Lord <hi>Fairfax</hi> him<g ref="char:EOLhyphen"/>ſelf; and that afterwards he the ſaid Major <hi>Hun<g ref="char:EOLhyphen"/>tington</hi> preſented them to the King with his own Hand. This Story I remember as well as any thing I ſaw done or heard ſpoken all the laſt year: I ſpare the man's Name for particular Reaſons; but if ever I be called by Authority to name him, I will do it, and depoſe the Truth of his ſaying ſo, upon my Oath.</p>
+            <pb n="22" facs="tcp:62944:14"/>
+            <p> I have now, and I hope to all good mens ſatis<g ref="char:EOLhyphen"/>faction, made out Matter of Fact againſt Dr. <hi>Wal<g ref="char:EOLhyphen"/>ker</hi>'s Aſſertions, and doubt not but from hence<g ref="char:EOLhyphen"/>forth, if the Party, that have taken occaſion to triumph over the Duſt of King <hi>Charles</hi> the Firſt, from this vain, ſhuffling, proud, and inconſiſtent Book of Dr. <hi>Walker</hi>'s, will not believe what I have ſaid yet, that they will have either the Modeſty, the Prudence, or Heneſty not to rail at and revile him, who was one of the beſt, wiſeſt, and moſt pious Princes that over ſate upon a Throne, and conſe<g ref="char:EOLhyphen"/>quently leaſt deſerved the hard Fate that he met with<g ref="char:EOLhyphen"/>al from Sons of <hi>Belial.</hi>
+            </p>
+            <p>I have but two things more to add, and then I have done.</p>
+            <p>I am very well aſſured, and that from a very good Hand, that Dr. <hi>Dillingham</hi> many years Fel<g ref="char:EOLhyphen"/>low and Maſter of <hi>Emanuel-College</hi> in <hi>Cambridge,</hi> did wait upon the King after he was ſeized by the Army in 47, and when the King was walk<g ref="char:EOLhyphen"/>ing in the Garden, had by a ſpecial Favour from thoſe about the King, admittance into his Bed-Chamber, where he ſaw and read under the King's own Hand, freſh writ, a whole Chapter of the King's Book; which is a great Teſtimony, conſide<g ref="char:EOLhyphen"/>ring the Truth and Piety of Dr. <hi>Dillingham,</hi> throughout his whole Life, who never was a vain<g ref="char:EOLhyphen"/>glorious man, hunting after Popularity. And fur<g ref="char:EOLhyphen"/>ther, I have a Commiſſion from the preſent Biſhop of <hi>Glouceſter,</hi> Dr. <hi>Fowler,</hi> to preſent the World with
+<pb n="23" facs="tcp:62944:14"/>this Narrative, from an Original drawn up and at<g ref="char:EOLhyphen"/>teſted by himſelf, which has a great deal of weight in it, conſidering the former Teſti<g ref="char:EOLhyphen"/>monies.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <head>About Twenty eight Years ſince, I re<g ref="char:EOLhyphen"/>ceived the following Account from Mrs. <hi>Keighly</hi> of <hi>Albro-Hatch</hi> in <hi>Barking</hi> Pariſh in <hi>Eſſex, viz.</hi>
+                        </head>
+                        <p>THAT ſhe had a Servant, who went from her into the Parliament Army, and was made a Captain, who giving her a Viſit, ſome time before the Murther of the King, told her, that he laid down his Commiſ<g ref="char:EOLhyphen"/>ſion; and ſhe demanding the Reaſon why, he replied, That his Conſcience would no longer permit him to keep it. She again asking him what it was that had diſſatisfied him, he re<g ref="char:EOLhyphen"/>plied, That whereas he had been made to be<g ref="char:EOLhyphen"/>lieve that the King was a very bad man, he was now abundantly aſſured, that he is an ex<g ref="char:EOLhyphen"/>cellent
+<pb n="24" facs="tcp:62944:15"/>good man. She enquiring what indu<g ref="char:EOLhyphen"/>ced him to judge ſo well of the King, he told her, That he was appointed to ſtand every Morning at His Majeſty's Bed-chamber Door, when he was a Priſoner in the <hi>Iſle of Wight,</hi> and obſerving for ſeveral days after he was ſet at his Poſt, that the King went into his Clo<g ref="char:EOLhyphen"/>ſet quickly after he was dreſſed, and there ſtaid a conſiderable time, and then went down into the Garden, and walk'd there a pretty while, and perceiving that he ſtill left the Key in his Cloſet Door, he adventured to go in, and found that he had been penning moſt devout and pious Meditations and Prayers, which he fell to reading, and read on till he ſaw the King return into the Walk that leads towards his Chamber, (for the Cloſet Window looked into the Garden.) And thus he the ſaid Captain did for ſeveral Mornings after, and read from time to time the King's Mornings Work, till he came to a Reſolution, no lon<g ref="char:EOLhyphen"/>ger to be ſuch a Prince's Jaylor. Mrs. <hi>Keigh<g ref="char:EOLhyphen"/>ly</hi> farther told me, that he gave ſuch an ac<g ref="char:EOLhyphen"/>count of theſe Meditations and Prayers, that ſhe was confident they were printed in <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, after ſhe came to read that
+<pb n="25" facs="tcp:62944:15"/>Book. This Mrs. <hi>Keighly</hi> was a very re<g ref="char:EOLhyphen"/>ligious and pious Gentlewoman, and as diſ<g ref="char:EOLhyphen"/>creet and prudent.</p>
+                        <closer>This I atteſt,
+<signed>
+                              <hi>Edward Fowler,</hi> D. D.</signed>
+                           <dateline>
+                              <date>
+                                 <hi>June 15. 1691.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And now I leave the whole thing in the Un<g ref="char:EOLhyphen"/>prejudiced Reader's Hands, to judge betwixt me and the late Dr. <hi>Walker;</hi> and if ſome men will be ſtill incredulous, I here offer my ſelf to ſtand to the Verdict of Twelve Neighbour-Miniſters, of Dr. <hi>Walker</hi> in <hi>Eſſex,</hi> and will give up the Cauſe if they bring me in guilty; and I am ſure it is a Corner of the Kingdom, wherein live as learned and vertuous Clergymen as any are in ſuch a ſpot of Ground in the Kingdom.</p>
+         </div>
+         <div type="postscript">
+            <pb n="26" facs="tcp:62944:16"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THere is one thing I omitted which in my Converſation with Mrs. <hi>Sim<g ref="char:EOLhyphen"/>monds</hi> ſhe acquainted me with, and that was being at Dinner ſome years ſince, at a Citizens Houſe, he like one of the Faction, and greedy to leſſen Monarchy by aſperſing King <hi>Charles</hi> the Firſt, told her, if ſhe would confeſs the Truth, that her Husband made the Book called the King's, there were ſome Hundreds of pounds at her Service; which ſhe, knowing her <hi>Hus<g ref="char:EOLhyphen"/>band's</hi> Honeſty in his Death-bed Aſſertions ſcorned, and told him ſhe was not to be bribed by never ſo much, to ſo great a Lye.</p>
+            <pb n="27" facs="tcp:62944:16"/>
+            <p> I wiſh Dr. <hi>Walker</hi> had been as ſtout to have reſiſted Temptations to Revenge and Vain-glory, Revenge againſt a Church to which he was never true; for he was an Enemy within our Gates, and then I am ſure the World would not have been peſte<g ref="char:EOLhyphen"/>red with a Book ſtuft with ſo many notorious Falſhoods.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
